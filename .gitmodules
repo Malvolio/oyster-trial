@@ -1,0 +1,3 @@
+[submodule "static"]
+	path = istatic
+	url = https://github.com/Malvolio/nautilus-admin
